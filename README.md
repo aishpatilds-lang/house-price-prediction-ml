@@ -37,18 +37,6 @@ The dataset contains the following features:
 - Linear Regression
 - K-Nearest Neighbors (KNN) Regression
 
-## Model Evaluation
-
-The notebook reports the following results:
-
-| Metric | Linear Regression | KNN Regression |
-|---|---:|---:|
-| MAE | 8,174.58 | 69,823.26 |
-| MSE | 101,434,798.51 | 6,986,408,437.15 |
-| RMSE | 10,071.48 | 83,584.74 |
-| MAPE | 1.66% | 15.30% |
-| R² Score | 0.9984 | 0.8916 |
-| Adjusted R² | 0.9984 | 0.8877 |
 
 Based on these recorded results, Linear Regression performed better than KNN Regression on the evaluated test set.
 
